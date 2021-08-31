@@ -3,9 +3,9 @@
 ⚡ Fun fact: Simple is beautiful
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=fastengineer&count_private=true&show_icons=true&include_all_commits=true" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=2ndmehmet&count_private=true&show_icons=true&include_all_commits=true" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastengineer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ndmehmet" />
 
 <!--
 **louislam/louislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
