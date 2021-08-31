@@ -7,8 +7,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ndmehmet" />
 
+[LinkedIn 💼](https://www.linkedin.com/in/2nd-mehmet-aydogdu/)
 <!--
-**louislam/louislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**2ndmehmet/2ndmehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
