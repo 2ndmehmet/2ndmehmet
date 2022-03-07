@@ -3,9 +3,9 @@
 ⚡ Fun fact: Simple is beautiful
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=2ndmehmet&count_private=true&show_icons=true&include_all_commits=true" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetaydogduu&count_private=true&show_icons=true&include_all_commits=true" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2ndmehmet" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetaydogduu" />
 
 [LinkedIn 💼](https://www.linkedin.com/in/2nd-mehmet-aydogdu/)
 <!--
