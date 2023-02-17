@@ -10,8 +10,8 @@
 [LinkedIn 💼](https://www.linkedin.com/in/2nd-mehmet-aydogdu/)
 <!--
 **mehmetaydogduu/mehmetaydogduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+Here are some info about me:
 - ⌛ Past, Full Stack Ruby on Rails and NodeJS Developer
 - 🔭 I’m currently working on cloud technologies
 - 🌱 I’m currently learning C++, VHDL
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: [ˈmemət]
 - ⚡ Fun fact: Business, Technology, 
 
--->
