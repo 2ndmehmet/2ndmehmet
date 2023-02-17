@@ -9,16 +9,17 @@
 
 [LinkedIn 💼](https://www.linkedin.com/in/2nd-mehmet-aydogdu/)
 <!--
-**2ndmehmet/2ndmehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mehmetaydogduu/mehmetaydogduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⌛ Past, Full Stack Ruby on Rails and NodeJS Developer
+- 🔭 I’m currently working on cloud technologies
+- 🌱 I’m currently learning C++, VHDL
+- 👯 I’m looking to collaborate on RISC-V
+- 🤔 I’m looking for help with network programming
+- 💬 Ask me about 
+- 📫 How to reach me: Text me from LinkedIn please
+- 😄 Pronouns: [ˈmemət]
+- ⚡ Fun fact: Business, Technology, 
 
 -->
